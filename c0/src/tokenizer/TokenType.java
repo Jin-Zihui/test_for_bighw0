@@ -39,5 +39,5 @@ public enum  TokenType {
     COLON,
     SEMICOLON,
     COMMENT,
-
+    EOF;
 }
